@@ -7,7 +7,7 @@ Water Pump Control: Activates the water pump based on soil moisture readings.
 LCD Display: Displays system status, including moisture levels and pump activity.
 User-Friendly Interface: Simple buttons for manual control and system reset.
 Energy Efficient: Designed to minimize power consumption.
-Components
+# </h1> Components <h1/>
 ATMEGA32 Microcontroller
 Soil Moisture Sensor
 Water Pump
@@ -18,5 +18,5 @@ Connecting Wires
 Resistors and Capacitors
 Push Buttons (for manual control)
 Breadboard or PCB
-Circuit Diagram
+# </h1>  Circuit Diagram <h1/>
 [Include a detailed circuit diagram here, showing connections between the ATMEGA32, soil moisture sensor, relay module, water pump, LCD display, and other components.]
