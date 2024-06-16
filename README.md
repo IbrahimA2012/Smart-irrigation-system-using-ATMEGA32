@@ -1,4 +1,4 @@
-Introduction
+#Introduction
 The Smart Irrigation System is designed to automate the watering of plants by using the ATMEGA32 microcontroller. This system monitors soil moisture levels and activates the water pump when necessary, ensuring that plants receive adequate water without wastage.
 
 Features
